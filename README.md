@@ -15,3 +15,6 @@
 # Другие навыки: 
 * Windows Server
 * Active Directory
+# Владение языками:
+* English
+* Russian
